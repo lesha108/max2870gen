@@ -1,0 +1,1 @@
+cargo size --bin max2870gen --release -- -A
